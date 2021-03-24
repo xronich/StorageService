@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagesAndFilesStorage", "ImagesAndFilesStorage.csproj", "{A1DFF7DD-4975-4F82-9F9D-61E76F227B57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Jenkins|Any CPU = Jenkins|Any CPU
+		Release|Any CPU = Release|Any CPU
+		stage|Any CPU = stage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DFF7DD-4975-4F82-9F9D-61E76F227B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DFF7DD-4975-4F82-9F9D-61E76F227B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DFF7DD-4975-4F82-9F9D-61E76F227B57}.Jenkins|Any CPU.ActiveCfg = Jenkins|Any CPU
+		{A1DFF7DD-4975-4F82-9F9D-61E76F227B57}.Jenkins|Any CPU.Build.0 = Jenkins|Any CPU
+		{A1DFF7DD-4975-4F82-9F9D-61E76F227B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DFF7DD-4975-4F82-9F9D-61E76F227B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DFF7DD-4975-4F82-9F9D-61E76F227B57}.stage|Any CPU.ActiveCfg = stage|Any CPU
+		{A1DFF7DD-4975-4F82-9F9D-61E76F227B57}.stage|Any CPU.Build.0 = stage|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69E1B328-CCDF-4306-AB4B-17E878586D28}
+	EndGlobalSection
+EndGlobal
